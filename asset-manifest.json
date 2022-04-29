@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/blablacar-search/static/css/main.5eff5059.css",
+    "main.js": "/blablacar-search/static/js/main.e937c117.js",
+    "static/js/787.8985bc26.chunk.js": "/blablacar-search/static/js/787.8985bc26.chunk.js",
+    "index.html": "/blablacar-search/index.html",
+    "main.5eff5059.css.map": "/blablacar-search/static/css/main.5eff5059.css.map",
+    "main.e937c117.js.map": "/blablacar-search/static/js/main.e937c117.js.map",
+    "787.8985bc26.chunk.js.map": "/blablacar-search/static/js/787.8985bc26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5eff5059.css",
+    "static/js/main.e937c117.js"
+  ]
+}
