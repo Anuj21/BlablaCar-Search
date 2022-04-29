@@ -17,7 +17,7 @@ const TripComponent = (props: { trip: ISearchTrips }) => {
   return (
     <div
       onClick={() => window.open(trip.link, '_blank')}
-      className='p-6 bg-white rounded-md shadoow-sm hover:shadow-md grid grid-cols-2 mt-6 w-9/12 h-40'
+      className='p-6 bg-white rounded-md shadoow-sm hover:shadow-md grid grid-cols-2 mt-6 w-9/12 h-40 cursor-pointer'
     >
       <div className='flex flex-col'>
         <span>
